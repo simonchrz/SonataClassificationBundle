@@ -39,7 +39,7 @@
         "sonata-project/media-bundle": "For media management"
     },
     "conflict": {
-        "jms/serializer": "<0.13",
+        "jms/serializer": "<0.13"
     },
     "autoload": {
         "psr-4": { "Sonata\\ClassificationBundle\\": "" }
